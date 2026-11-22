@@ -22,6 +22,9 @@ containerized using Docker.
 - Database health endpoint
 <img width="943" height="441" alt="image" src="https://github.com/user-attachments/assets/9666e52c-13dd-47bd-8ef8-2a4422baea44" />
 
+<img width="892" height="436" alt="image" src="https://github.com/user-attachments/assets/8b6da9d3-2e52-415c-a6ce-7e2eac1306bc" />
+
+
 ## Architecture
 
 1. Flask application container
