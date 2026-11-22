@@ -20,6 +20,7 @@ containerized using Docker.
 - Delete tickets
 - Persistent database storage
 - Database health endpoint
+<img width="943" height="441" alt="image" src="https://github.com/user-attachments/assets/9666e52c-13dd-47bd-8ef8-2a4422baea44" />
 
 ## Architecture
 
